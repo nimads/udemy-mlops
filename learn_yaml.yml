@@ -1,0 +1,28 @@
+# this is a yml file
+my-course: "AWS DevOps Professin Certification"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2024-01-10
+pre_enroll: null
+category: 
+ - AWS
+ - DevOps
+ - AWS Certification
+
+cource_dev: ["nima" , "mehrnaz"]
+dev_details: 
+ - name: "nima"
+   email: "yaari.nima@gmail.com"
+   role: "author"
+ - name: "mehrnaz"
+   email: "m.motahari@gmail.com"
+   role: "Co-author"
+ - {name: "nima", email: n.yari@gmail.com", role: "Co-author"}
+
+decription: >
+This learn yml creash cource
+
+detailed_decription: |
+
+
